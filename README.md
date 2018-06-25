@@ -1,2 +1,4 @@
-# Technical_Interview_Resources
-Technical Interview Resources
+# Technical Interview Resources
+
+## Books
+Cracking Coding Interview
